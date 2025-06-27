@@ -225,7 +225,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [Keyscope](https://github.com/SpectralOps/keyscope) - _Spectral_ - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - Securely store, rotate and audit secrets.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) - _Mozilla_ - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
-- [Sshman](https://github.com/SpikeTheDragon40k/sshman) - _SpikeTheDragon_ - Secure SSH key and connection manager with encrypted vault, key generation, and direct SSH connection support.
+- [Sshman](https://github.com/SpikeTheDragon40k/sshman) - _SpikeTheDragon40k_ - Secure SSH key and connection manager with encrypted vault, key generation, and direct SSH connection support.
 - [Teller](https://github.com/spectralops/teller) - _Spectral_ - A secrets management tool for developers - never leave your command line for secrets.
 
 
